@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Music Structure</string>
+    <string name="polish">Polska!</string>
+    <string name="italian">Eye-Ties!</string>
+    <string name="english">Pommies!</string>
+    <string name="german">Krauts!</string>
+</resources>
